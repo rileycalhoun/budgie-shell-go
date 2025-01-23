@@ -4,7 +4,7 @@ I created this to help myself learn Go, and to deepen my understanding of Unix.
 */
 package main
 
-import "github.com/budgie-shell/internal/repl"
+import "github.com/budgie-shell-go/internal/repl"
 
 var logs []string = make([]string, 0) 
 

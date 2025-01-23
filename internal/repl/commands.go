@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/budgie-shell/internal/utils"
+	"github.com/budgie-shell-go/internal/utils"
 	"golang.org/x/sys/unix"
 )
 

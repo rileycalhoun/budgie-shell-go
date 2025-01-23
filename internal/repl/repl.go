@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/budgie-shell/internal/utils"
+	"github.com/budgie-shell-go/internal/utils"
 )
 
 var home = os.Getenv("HOME")

@@ -1,4 +1,4 @@
-module github.com/budgie-shell
+module github.com/budgie-shell-go
 
 go 1.23.4
 
